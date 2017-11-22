@@ -1,0 +1,16 @@
+{
+  "name": "pruebademo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "mysql": "^2.15.0",
+    "watson-developer-cloud": "^2.42.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
